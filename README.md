@@ -41,7 +41,7 @@
       </tr>
       <tr>
         <td style="border: 1px solid #555">1</td>
-        <td style="border: 1px solid #555">Expanding Cards</td>
+        <td style="border: 1px solid #555">Hello Havij</td>
         <td style="border: 1px solid #555">
           <a href="https://imsrdev-expanding-cards.vercel.app/" target="_blank">link demo</a>
         </td>
